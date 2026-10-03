@@ -1,0 +1,3 @@
+# Password Strength Checker - No External Dependencies
+# This tool uses only Python standard library modules.
+# Requirements file kept for future extensibility.
